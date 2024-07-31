@@ -34,8 +34,8 @@ OpenSRANE_version = (
 
 assert "." in OpenSRANE_version
 
-assert os.path.isfile("OpenSRANE/version.py")
-with open("OpenSRANE/VERSION", "w", encoding="utf-8") as fh:
+assert os.path.isfile("opensrane/version.py")
+with open("opensrane/VERSION", "w", encoding="utf-8") as fh:
     fh.write(f"{OpenSRANE_version}\n")
 
 
