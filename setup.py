@@ -53,7 +53,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description ,
     package_data={
-        # "":["*.jpg","*.at2","*.pyd"],
+         "":["*.jpg","*.at2","*.pyd"],
 
     },
     packages=find_packages(),
@@ -61,7 +61,7 @@ setup(
     url="https://github.com/OpenSRANE/OpenSRANE",
     keywords=['python', 'NaTech', 'Modeling', 'Risk'],
     classifiers=[
-        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.12.3',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Operating System :: Microsoft :: Windows'
     ],
