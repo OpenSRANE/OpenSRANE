@@ -61,7 +61,7 @@ setup(
     url="https://github.com/OpenSRANE/OpenSRANE",
     keywords=['python', 'NaTech', 'Modeling', 'Risk'],
     classifiers=[
-        'Programming Language :: Python :: 3.12.3',
+        'Programming Language :: Python :: 3.12',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Operating System :: Microsoft :: Windows'
     ],
