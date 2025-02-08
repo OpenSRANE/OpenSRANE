@@ -57,7 +57,7 @@ setup(
 
     },
     packages=find_packages(),
-    install_requires=['numpy','plotly','scipy','kaleido','tqdm','pandas','ipywidgets','nbformat','ipykernel','matplotlib','requests'],
+    install_requires=['numpy','plotly','scipy','kaleido','tqdm','pandas','ipywidgets','nbformat','ipykernel','matplotlib','requests','anywidget'],
     url="https://github.com/OpenSRANE/OpenSRANE",
     keywords=['python', 'NaTech', 'Modeling', 'Risk'],
     classifiers=[
