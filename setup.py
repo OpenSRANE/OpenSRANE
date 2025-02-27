@@ -15,9 +15,6 @@
 # **                                                                    **
 # ** Developed by:                                                      **
 # **   Bijan SayyafZadeh (OpenSRANE@Gmail.com)                          **
-# **   MehDi Sharifi                                                    **
-# **   Abdolreza S. Moghadam                                            **
-# **   Eslam Kashi                                                      **
 # **                                                                    **
 # ** ****************************************************************** */
 

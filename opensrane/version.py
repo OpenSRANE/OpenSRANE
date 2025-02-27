@@ -15,9 +15,6 @@
 # **                                                                    **
 # ** Developed by:                                                      **
 # **   Bijan SayyafZadeh (OpenSRANE@Gmail.com)                          **
-# **   MehDi Sharifi                                                    **
-# **   Abdolreza S. Moghadam                                            **
-# **   Eslam Kashi                                                      **
 # **                                                                    **
 # ** ****************************************************************** */
 
@@ -25,8 +22,8 @@
  Written: Bijan Sayyafzadeh
  Created: 2022
  
- Revision: -
- By & Date: -
+ Revision: Bijan Sayyafzadeh
+ By & Date: 2025
 '''
 
 
